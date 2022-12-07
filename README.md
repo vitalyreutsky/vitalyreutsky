@@ -4,13 +4,13 @@
 
 <img src="https://img.shields.io/badge/html-fff?style=for-the-badge&logo=HTML5&logoColor=FF4500"/> <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=HTML5&logoColor=2965f1"/> <img src="https://img.shields.io/badge/Sass-fff?style=for-the-badge&logo=Sass&logoColor=cd6799"/> <img src="https://img.shields.io/badge/Bootstrap-fff?style=for-the-badge&logo=Bootstrap&logoColor=4B0082"/> <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=JavaScript&logoColor=FFA500"/> <img src="https://img.shields.io/badge/gulp-fff?style=for-the-badge&logo=gulp&logoColor=DC143C"/> <img src="https://img.shields.io/badge/webpack-fff?style=for-the-badge&logo=webpack&logoColor=8ED5FA"/> <img src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react&logoColor=61DBFB"/> <img src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git&logoColor=E2C00"/> <img src="https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=000"/> <img src="https://img.shields.io/badge/php-fff?style=for-the-badge&logo=php&logoColor=232531"/> <img src="https://img.shields.io/badge/wordpress-fff?style=for-the-badge&logo=wordpress&logoColor=000"/> <img src="https://img.shields.io/badge/phpMyAdmin-fff?style=for-the-badge&logo=phpMyAdmin&logoColor=FF8C00"/> <img src="https://img.shields.io/badge/Trello-fff?style=for-the-badge&logo=Trello&logoColor=0079bf"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 ## Last projects:
+
 [The Unique Taste](https://test83.site/)
 [Fish and Meat](https://ajdadona.com/)
 [Интернет-магазин дверей и мебели](https://biport.ge/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## Connect with me:
 
