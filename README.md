@@ -6,7 +6,7 @@
 
 ## Last projects:
 
-[The Unique Taste](http://vitalyreutsky.github.io/Unique/)
+[The Unique Taste](https://uniqtst.com/)
 <br/>
 [Fish and Meat](https://ajdadona.com/)
 <br/>
