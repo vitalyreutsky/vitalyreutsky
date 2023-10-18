@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/html-fff?style=for-the-badge&logo=HTML5&logoColor=FF4500"/> <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=HTML5&logoColor=2965f1"/> <img src="https://img.shields.io/badge/Sass-fff?style=for-the-badge&logo=Sass&logoColor=cd6799"/> <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=JavaScript&logoColor=FFA500"/> <img src="https://img.shields.io/badge/gulp-fff?style=for-the-badge&logo=gulp&logoColor=DC143C"/> <img src="https://img.shields.io/badge/webpack-fff?style=for-the-badge&logo=webpack&logoColor=8ED5FA"/> <img src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react&logoColor=61DBFB"/> <img src="https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git&logoColor=E2C00"/> <img src="https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=000"/> <img src="https://img.shields.io/badge/php-fff?style=for-the-badge&logo=php&logoColor=232531"/> <img src="https://img.shields.io/badge/wordpress-fff?style=for-the-badge&logo=wordpress&logoColor=000"/> <img src="https://img.shields.io/badge/phpMyAdmin-fff?style=for-the-badge&logo=phpMyAdmin&logoColor=FF8C00"/> <img src="https://img.shields.io/badge/Trello-fff?style=for-the-badge&logo=Trello&logoColor=0079bf"/>
 
 ## Last projects:
-[Нефть, логистика (КТТ)](https://test85.site/)
+[Нефть, логистика (КТТ)](https://ktt.creanika.com/)
 <br/>
-[Раздвижные перегородки и стены «под ключ»](https://test83.site/)
+[Раздвижные перегородки и стены «под ключ»](https://foldin.ru/)
 <br/>
 [Product for winemaking in Georgia](https://enocork.ge)
 <br/>
