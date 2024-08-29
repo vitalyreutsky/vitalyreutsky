@@ -1,4 +1,4 @@
-# I'm a frontend / web developer
+# I'm a wordpress / web developer
 
 ## Languages and Tools:
 
