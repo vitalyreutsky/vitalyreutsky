@@ -1,4 +1,4 @@
-# I'm a wordpress / web developer
+# Fullstack WordPress Developer (Custom Themes, Plugins, API & Performance)
 
 ## Languages and Tools:
 
